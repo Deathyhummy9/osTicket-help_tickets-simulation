@@ -29,25 +29,35 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1920" height="1080" alt="Screenshot (64)" src="https://github.com/user-attachments/assets/c7be74f8-6523-4952-863c-212677c5dfc3" />
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Log in as the user we made earlier and make a ticket it can be what ever you want after log in as john (our help desk agent) determined the  priority of it ask questions to narrow it down and change the SLA to what fits the situation best
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1920" height="1080" alt="Screenshot (85)" src="https://github.com/user-attachments/assets/d917a325-de0e-4771-ad1d-83d406317664" />
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I made mine a online banking app crash and made the prority SLA-A since the crash is affecting lots of users at once Im using chatgpt to help simulate a help desk scenario based on the ticket i made  
+
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1915" height="981" alt="Screenshot (90)" src="https://github.com/user-attachments/assets/42681c00-c8c4-447c-bfb6-6199264bd56b" />
+
+<img width="1912" height="912" alt="Screenshot (91)" src="https://github.com/user-attachments/assets/242ccee6-5780-4248-9353-7f33e6f534b0" />
+
+<img width="1918" height="911" alt="Screenshot (92)" src="https://github.com/user-attachments/assets/2ff57852-d8fb-425b-bd93-120caf9fe04b" />
+
+<img width="1871" height="909" alt="Screenshot (93)" src="https://github.com/user-attachments/assets/36322200-486b-40a0-b987-2341e9e32428" />
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+After this  You may change the ticket to resolved and u may repeat it for more practice but the lab is concluded
 </p>
 <br />
