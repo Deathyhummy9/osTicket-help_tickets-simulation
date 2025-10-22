@@ -4,7 +4,8 @@
 </p>
 
 <h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
-This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
+This lab demonstrates the **full lifecycle of a help desk ticket** within osTicket — from ticket creation by an end user to resolution by an agent.  
+It mirrors how Tier 1 / Tier 2 support works in real organizations: ticket intake, prioritization, SLA assignment, troubleshooting, communication, and closure.<br />
 
 
 
